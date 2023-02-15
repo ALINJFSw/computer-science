@@ -65,6 +65,25 @@ a {
     list-style: none;
 }
 
+.mouse,
+.keyboard {
+    position: absolute;
+    width: 20rem;
+    height: 20rem;
+}
+
+.keyboard {
+   
+    top: 7rem;
+    left: 4rem;
+}
+.mouse {
+   
+    top: 20rem;
+    right: 4rem
+}
+
+
 footer {
     
     margin-top: 2rem;
